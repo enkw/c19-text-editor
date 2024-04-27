@@ -1,6 +1,4 @@
-# 19 Progressive Web Applications (PWA): Text Editor
-
-# 11 Express.js: Note Taker
+# 19 Progressive Web Applications (PWA): JATE (Just Another Text Editor)
 
 ## Description
   
@@ -21,10 +19,10 @@ the application can be access via the shortcut you should now have on your deskt
   
 ## Usage
   
-To use this application, click [here](https://c11-note-taker.onrender.com/). Once the page loads you'll be able to use it as a note taking application. If you feel so inclined you're also able to install the application. This application does not require an internet connection to use.
+To use this application, click [here](https://c19-text-editor.onrender.com). Once the page loads you'll be able to use it as a note taking application. If you feel so inclined you're also able to install the application. This application does not require an internet connection to use.
 
 Example:
-![Image of the JATE application running](./screenshots/Screenshot-UPDATETHIS.png)
+![Image of the JATE application running](./screenshots/Screenshot-of-JATE.png)
   
 ## Credits
   
